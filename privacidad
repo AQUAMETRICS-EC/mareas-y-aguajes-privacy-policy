@@ -1,0 +1,220 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Política de Privacidad | Mareas y Aguajes - AQUAMETRICS</title>
+  <style>
+    body {
+      font-family: 'Roboto', Arial, sans-serif;
+      margin: 0 auto;
+      max-width: 800px;
+      padding: 32px 16px;
+      background: #f8fafc;
+      color: #222;
+    }
+    h1, h2 {
+      color: #005a9c;
+      margin-top: 1.5em;
+      margin-bottom: 0.5em;
+    }
+    h1 {
+      font-size: 2.2em;
+      border-bottom: 2px solid #005a9c;
+      padding-bottom: 0.2em;
+    }
+    h2 {
+      font-size: 1.3em;
+      margin-top: 1.3em;
+    }
+    .section {
+      margin-bottom: 2em;
+    }
+    .summary {
+      background: #e8f4fa;
+      border-left: 4px solid #005a9c;
+      padding: 12px 18px;
+      margin-bottom: 1em;
+      font-size: 1.05em;
+    }
+    b, strong {
+      color: #00345a;
+    }
+    ul, ol {
+      margin: 0 0 1em 2em;
+    }
+    a {
+      color: #005a9c;
+      text-decoration: underline;
+    }
+    .email {
+      font-weight: bold;
+      color: #0074d9;
+      word-break: break-all;
+    }
+    .address {
+      font-style: italic;
+      color: #444;
+    }
+    .update-date {
+      font-size: 1.1em;
+      color: #666;
+      margin-bottom: 2em;
+    }
+    .table-content li {
+      margin-bottom: 0.2em;
+    }
+    .divider {
+      border-top: 1px solid #cce;
+      margin: 2em 0;
+    }
+  </style>
+</head>
+<body>
+  <h1>POLÍTICA DE PRIVACIDAD para MAREAS Y AGUAJES - AQUAMETRICS</h1>
+  <div class="update-date"><b>Última actualización:</b> 25 de junio de 2025</div>
+
+  <div class="section summary">
+    Este Aviso de Privacidad para <strong>MAREAS Y AGUAJES - AQUAMETRICS</strong> ("nosotros", "nos" o "nuestro") describe cómo y por qué podríamos acceder, recopilar, almacenar, usar y/o compartir ("procesar") su información personal cuando utiliza nuestros servicios ("Servicios"), específicamente nuestra aplicación móvil: <strong>MAREAS Y AGUAJES - AQUAMETRICS</strong>.<br><br>
+    MAREAS Y AGUAJES - AQUAMETRICS es una aplicación móvil diseñada para proporcionar a los usuarios información detallada sobre las mareas y el nivel del agua en los puertos de Ecuador, así como datos sobre las fases de la luna. Los usuarios pueden buscar puertos específicos, seleccionar fechas (mes y día) y visualizar gráficos y datos numéricos precisos sobre las mareas, incluyendo pleamares y bajamares. La información sobre las tablas de mareas y las fases de la luna ha sido tomada del libro oficial "Tablas de mareas y datos astronómicos del sol y la luna" publicado por el INOCAR. Esta aplicación ayuda en actividades como la navegación, la pesca y la planificación costera, presentando información confiable de manera accesible y visual.<br><br>
+    Si tiene preguntas o inquietudes sobre nuestras políticas y prácticas de privacidad, comuníquese con nosotros en <span class="email">soporte.app@aquametrics.com.ec</span>.
+  </div>
+
+  <div class="section">
+    <h2>RESUMEN DE PUNTOS CLAVE</h2>
+    <ul>
+      <li><strong>¿Procesamos información personal sensible?</strong> No. No procesamos información personal sensible (como orígenes raciales o étnicos, orientación sexual o creencias religiosas).</li>
+      <li><strong>¿Recopilamos alguna información de terceros?</strong> No recopilamos directamente información personal de terceros. Utilizamos servicios de terceros (como Google Maps Platform y Google Firebase Analytics) que pueden recopilar datos de uso y de dispositivo de acuerdo con sus propias políticas.</li>
+      <li><strong>¿Cómo procesamos su información?</strong> Procesamos su información para proporcionar, mejorar y administrar nuestros Servicios, y para cumplir con la ley. Podemos procesar su información para otros fines con su consentimiento. Procesamos su información únicamente cuando tenemos una razón legal válida para hacerlo.</li>
+      <li><strong>¿Con quién compartimos información?</strong> Podemos compartir información en situaciones específicas y con proveedores de servicios de terceros (como se detalla a continuación).</li>
+      <li><strong>¿Cómo mantenemos segura su información?</strong> Contamos con medidas de seguridad organizativas y técnicas. Sin embargo, ninguna transmisión o almacenamiento de información es 100% seguro.</li>
+      <li><strong>¿Cuáles son sus derechos?</strong> Dependiendo de su ubicación, podría tener derechos relacionados con su información personal (como acceso o eliminación).</li>
+      <li><strong>¿Cómo ejercer sus derechos?</strong> Contáctenos en <span class="email">soporte.app@aquametrics.com.ec</span>.</li>
+    </ul>
+  </div>
+
+  <div class="section">
+    <h2>TABLA DE CONTENIDO</h2>
+    <ol class="table-content">
+      <li>¿QUÉ INFORMACIÓN RECOPILAMOS?</li>
+      <li>¿CÓMO PROCESAMOS SU INFORMACIÓN?</li>
+      <li>¿CUÁNDO Y CON QUIÉN COMPARTIMOS SU INFORMACIÓN?</li>
+      <li>¿UTILIZAMOS TECNOLOGÍAS DE SEGUIMIENTO?</li>
+      <li>¿DURANTE CUÁNTO TIEMPO CONSERVAMOS SU INFORMACIÓN?</li>
+      <li>¿CÓMO MANTENEMOS SEGURA SU INFORMACIÓN?</li>
+      <li>¿RECOGEMOS INFORMACIÓN DE MENORES DE EDAD?</li>
+      <li>¿CUÁLES SON SUS DERECHOS DE PRIVACIDAD?</li>
+      <li>¿HACEMOS ACTUALIZACIONES A ESTE AVISO?</li>
+      <li>¿CÓMO PUEDE CONTACTARNOS SOBRE ESTE AVISO?</li>
+      <li>¿CÓMO PUEDE REVISAR, ACTUALIZAR O ELIMINAR SUS DATOS?</li>
+    </ol>
+  </div>
+
+  <div class="divider"></div>
+
+  <div class="section">
+    <h2>1. ¿QUÉ INFORMACIÓN RECOPILAMOS?</h2>
+    <p><strong>En resumen:</strong> Recopilamos información limitada, principalmente técnica y de uso, para el funcionamiento y mejora de la app. No recopilamos nombres, correos electrónicos u otra información personal directamente identificable.</p>
+    <p>Recopilamos información personal que usted nos proporciona voluntariamente cuando interactúa con los Servicios o, de otro modo, cuando se comunica con nosotros.</p>
+    <p><strong>Información recopilada automáticamente:</strong><br>
+      Cuando utiliza nuestros Servicios, podemos recopilar automáticamente cierta información relacionada con su dispositivo y su uso de la aplicación. Esta información no revela su identidad específica (como su nombre o información de contacto), pero puede incluir información de uso y técnica.<br>
+      Esta información es necesaria principalmente para mantener la seguridad y el funcionamiento de nuestros Servicios, y para nuestros fines de análisis y elaboración de informes internos.
+    </p>
+    <ul>
+      <li><strong>Información del dispositivo:</strong> Marca del dispositivo, modelo, sistema operativo, identificadores únicos del dispositivo (como ID de publicidad).</li>
+      <li><strong>Datos de uso de la aplicación:</strong> Cómo interactúa con la aplicación (por ejemplo, puertos buscados, frecuencia de uso de funciones, tiempo dedicado a la aplicación).</li>
+      <li><strong>Datos de diagnóstico:</strong> Información sobre bloqueos o errores de la aplicación para fines de depuración y mejora.</li>
+      <li><strong>Información de ubicación (si aplica y con su consentimiento):</strong> Nuestra aplicación no utiliza su ubicación en tiempo real para el funcionamiento principal. Sin embargo, si en el futuro se implementa una función de "puerto más cercano" que requiera acceso a su ubicación, se le solicitará su consentimiento explícito y la información de ubicación solo se utilizará para ese propósito específico. Esta Política de Privacidad se actualizará para reflejar cualquier cambio en el manejo de la ubicación.</li>
+    </ul>
+    <p><strong>Información personal que usted nos revela:</strong><br>
+      Nuestra aplicación MAREAS Y AGUAJES - AQUAMETRICS no requiere ni permite la creación de cuentas de usuario ni el registro. Por lo tanto, no recopilamos nombres, direcciones de correo electrónico o credenciales de inicio de sesión de los usuarios.
+    </p>
+    <p><strong>Información sensible:</strong> No procesamos información personal sensible.</p>
+    <p>Toda la información personal que usted nos proporcione debe ser verdadera, completa y precisa, y debe notificarnos cualquier cambio en dicha información personal.</p>
+  </div>
+
+  <div class="section">
+    <h2>2. ¿CÓMO PROCESAMOS SU INFORMACIÓN?</h2>
+    <p><strong>En resumen:</strong> Procesamos su información para proporcionar, mejorar y administrar nuestros Servicios, y para cumplir con la ley.</p>
+    <p>Procesamos su información personal por una variedad de razones, dependiendo de cómo interactúe con nuestros Servicios, incluyendo:</p>
+    <ul>
+      <li>Para prestar y facilitar la prestación de servicios al usuario: Procesamos su información para permitir el funcionamiento de la aplicación y proporcionarle los datos de mareas y fases lunares solicitados.</li>
+      <li>Para identificar y resolver problemas: Procesamos datos de diagnóstico y uso para comprender y corregir errores, y mejorar el rendimiento de la aplicación.</li>
+      <li>Para cumplir con nuestras obligaciones legales: Procesamos su información para cumplir con nuestras obligaciones legales y responder a solicitudes legales.</li>
+    </ul>
+  </div>
+
+  <div class="section">
+    <h2>3. ¿CUÁNDO Y CON QUIÉN COMPARTIMOS SU INFORMACIÓN?</h2>
+    <p><strong>En resumen:</strong> Podemos compartir información en situaciones específicas y con proveedores de servicios de terceros para el funcionamiento de la app.</p>
+    <p>Nosotros podemos necesitar compartir su información personal en las siguientes situaciones:</p>
+    <ul>
+      <li><strong>Proveedores de Servicios de Terceros:</strong> Podemos compartir su información con proveedores de servicios externos que realizan servicios para nosotros o en nuestro nombre, como el alojamiento de datos, el análisis de datos (ej. Google Firebase Analytics para comprender el uso de la app y mejorarla) y servicios de soporte.</li>
+      <li><strong>API de Google Maps Platform:</strong> Si su aplicación utiliza las API de Google Maps Platform para mostrar ubicaciones o mapas (por ejemplo, API de Google Maps), su interacción con estas características puede implicar el intercambio de datos con Google Maps Platform. Google Maps utiliza GPS, Wi-Fi y torres de telefonía móvil para estimar tu ubicación. Consulta la Política de Privacidad de Google Maps para obtener más información.</li>
+      <li><strong>Transferencias de Negocios:</strong> Podemos compartir o transferir su información en relación con, o durante las negociaciones de, cualquier fusión, venta de activos de la empresa, financiación o adquisición de la totalidad o parte de nuestro negocio a otra empresa.</li>
+      <li><strong>Cumplimiento Legal y Derechos:</strong> Podemos divulgar su información cuando sea legalmente requerido para cumplir con la ley aplicable, solicitudes gubernamentales, un proceso judicial, o para proteger nuestros derechos o propiedad.</li>
+    </ul>
+  </div>
+
+  <div class="section">
+    <h2>4. ¿UTILIZAMOS TECNOLOGÍAS DE SEGUIMIENTO?</h2>
+    <p><strong>En resumen:</strong> Utilizamos identificadores de dispositivo para análisis y mejora de la aplicación. Nuestra aplicación no muestra publicidad personalizada ni utiliza cookies web tradicionales.</p>
+    <p>Podemos utilizar tecnologías de seguimiento similares a las cookies (como identificadores de publicidad móvil o identificadores de instalación de aplicaciones) para recopilar información cuando interactúa con nuestros Servicios. Estas tecnologías nos ayudan a:</p>
+    <ul>
+      <li>Mantener la seguridad de nuestros Servicios.</li>
+      <li>Prevenir fallos y corregir errores.</li>
+      <li>Comprender y analizar el uso de la aplicación para mejorar su funcionalidad y experiencia de usuario.</li>
+    </ul>
+    <p>Nuestra aplicación <strong>NO</strong> utiliza tecnologías de seguimiento para la personalización de anuncios ni para publicidad dirigida. Si esta práctica cambiara en el futuro, esta política de privacidad se actualizará y se solicitará su consentimiento según sea necesario.</p>
+  </div>
+
+  <div class="section">
+    <h2>5. ¿DURANTE CUÁNTO TIEMPO CONSERVAMOS SU INFORMACIÓN?</h2>
+    <p><strong>En resumen:</strong> Conservamos su información solo durante el tiempo necesario para los fines descritos en este Aviso de Privacidad, a menos que la ley exija o permita un período de retención más largo.</p>
+    <p>Dado que MAREAS Y AGUAJES - AQUAMETRICS no recopila nombres, correos electrónicos ni información de cuentas de usuario, la información técnica y de uso recopilada automáticamente se conserva el tiempo mínimo necesario para los fines de análisis y mejora de la aplicación, y para cumplir con las obligaciones legales.</p>
+    <p>Cuando no tengamos una necesidad comercial legítima en curso para procesar su información personal, la eliminaremos o anonimizaremos.</p>
+  </div>
+
+  <div class="section">
+    <h2>6. ¿CÓMO MANTENEMOS SEGURA SU INFORMACIÓN?</h2>
+    <p><strong>En resumen:</strong> Nos esforzamos por proteger su información personal mediante medidas de seguridad adecuadas.</p>
+    <p>Hemos implementado medidas técnicas y organizativas adecuadas y razonables diseñadas para proteger la seguridad de cualquier información personal que procesemos. Sin embargo, a pesar de nuestras medidas de seguridad y esfuerzos para proteger su información, ninguna transmisión electrónica por internet ni tecnología de almacenamiento de información puede garantizarse al 100% de seguridad. Por lo tanto, no podemos prometer ni garantizar que hackers, ciberdelincuentes u otros terceros no autorizados no podrán vulnerar nuestra seguridad ni recopilar, acceder, robar o modificar indebidamente su información. La transmisión de información personal hacia y desde nuestros Servicios se realiza bajo su propio riesgo.</p>
+  </div>
+
+  <div class="section">
+    <h2>7. ¿RECOGEMOS INFORMACIÓN DE MENORES DE EDAD?</h2>
+    <p><strong>En resumen:</strong> No recopilamos datos de forma consciente ni comercializamos con niños menores de 13 años.</p>
+    <p>Nuestra aplicación no está dirigida a niños menores de 13 años, y no recopilamos intencionalmente datos de ellos. Al usar los Servicios, usted declara que tiene al menos 13 años o que es padre o tutor de un menor entre 13 y 18 años y consiente el uso de los Servicios por parte de dicho menor dependiente bajo su supervisión. Si descubrimos que se ha recopilado información personal de usuarios menores de 13 años, desactivaremos la cuenta (si existiera) y tomaremos medidas razonables para eliminarla de inmediato de nuestros registros. Si tiene conocimiento de que hayamos recopilado datos de menores de 13 años, por favor contáctenos en <span class="email">soporte.app@aquametrics.com.ec</span>.</p>
+  </div>
+
+  <div class="section">
+    <h2>8. ¿CUÁLES SON SUS DERECHOS DE PRIVACIDAD?</h2>
+    <p><strong>En resumen:</strong> Dependiendo de su ubicación, puede tener ciertos derechos sobre sus datos personales.</p>
+    <p>Dado que MAREAS Y AGUAJES - AQUAMETRICS no recopila información personal directamente identificable (como nombres o correos electrónicos) ni ofrece cuentas de usuario, la mayoría de los derechos relacionados con el acceso, la corrección o la eliminación de "su cuenta" o "sus datos personales" directamente a través de la aplicación no son aplicables en el sentido tradicional.</p>
+    <p>Sin embargo, si las leyes de su jurisdicción le otorgan derechos sobre los identificadores de dispositivos o datos de uso anónimos que recopilamos, consideraremos y atenderemos cualquier solicitud de conformidad con la legislación aplicable en materia de protección de datos.</p>
+    <p>Para solicitar la revisión o, si es aplicable, la eliminación de datos relacionados con su dispositivo, por favor contáctenos a <span class="email">soporte.app@aquametrics.com.ec</span>.</p>
+  </div>
+
+  <div class="section">
+    <h2>9. ¿HACEMOS ACTUALIZACIONES A ESTE AVISO?</h2>
+    <p><strong>En resumen:</strong> Sí, actualizaremos este aviso según sea necesario para cumplir con las leyes pertinentes y reflejar cambios en nuestras prácticas.</p>
+    <p>Podemos actualizar este Aviso de Privacidad ocasionalmente. La versión actualizada se indicará mediante una "Fecha de última actualización" en la parte superior de este Aviso de Privacidad. Si realizamos cambios sustanciales en este Aviso de Privacidad, podremos notificarle mediante un aviso visible en la aplicación o enviándole directamente una notificación (si es posible). Le recomendamos revisar este Aviso de Privacidad con frecuencia para estar al tanto de cómo protegemos su información.</p>
+  </div>
+
+  <div class="section">
+    <h2>10. ¿CÓMO PUEDE CONTACTARNOS SOBRE ESTE AVISO?</h2>
+    <p>Si tiene preguntas o comentarios sobre este aviso, puede enviarnos un correo electrónico a <span class="email">soporte.app@aquametrics.com.ec</span> o contactarnos por correo postal a:</p>
+    <div class="address">
+      MAREAS Y AGUAJES - AQUAMETRICS<br>
+      Lizardo García 211<br>
+      Guayaquil, Guayas 090310<br>
+      Ecuador
+    </div>
+  </div>
+
+  <div class="section">
+    <h2>11. ¿CÓMO PUEDE REVISAR, ACTUALIZAR O ELIMINAR SUS DATOS?</h2>
+    <p>Dado que no recopilamos nombres, correos electrónicos ni información de cuenta, la solicitud para revisar, actualizar o eliminar la mayoría de los "datos de usuario" no es aplicable de la misma manera que en una aplicación con registro.</p>
+    <p>Sin embargo, si desea solicitar información sobre los datos de uso y de dispositivo asociados a su instalación de la aplicación, o si desea que eliminemos cualquier identificador relacionado con su dispositivo (cuando sea técnicamente posible y legalmente requerido), puede contactarnos en <span class="email">soporte.app@aquametrics.com.ec</span>.</p>
+  </div>
+</body>
+</html>
